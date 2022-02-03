@@ -67,13 +67,14 @@ footer{
 
 @media screen and (max-width:768px){
   main{
-    width: 80%;
-    margin: 50px;
+    width: 100%;
+    margin: 50px auto;
     display: block;
   }
 
   .box{
-    width: 100%;
-    margin-bottom: 50px;
+    width: 90%;
+    margin: auto;
+    margin-bottom: 20px;
   }
 }
